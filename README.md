@@ -1,0 +1,2 @@
+# DataColl
+This repository is a collection of video recordings showcasing the use of Indian Sign Language for communication across four distinct categories: "good," "write," "tension," and "thank you." Each category represents a set of signs and gestures that convey the intended meaning in Indian Sign Language. Researchers, educators, or anyone interested in understanding or studying these specific aspects of Indian Sign Language can utilize the video data available in this repository for learning, analysis, or other related purposes.
